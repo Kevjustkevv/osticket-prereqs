@@ -238,3 +238,5 @@ Set Permission to "`Read`" only can be acheived by choosing to right-click on '`
 <p align="center"><i><b> First Lab Completed, GREAT JOB!! 😁</i></b></p>
 
 To move forward to the next lab, click [here](https://github.com/kevjustkevv/post-install-config)
+
+"Small steps lead to big victories." - Anonymous
